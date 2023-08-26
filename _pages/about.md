@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-======
 Title: **Are we bootstrapping the right thing? A new approach to quantify uncertainty of ATT Estimates**
 
 **Abstract**: Existing approaches of using the bootstrap method to derive standard error and confidence interval of average treatment effect estimate has one potential issue, which is that they are actually bootstrapping the wrong thing, resulting in unvalid statistical inference. In this paper, we discuss this important issue and propose a new non-parametric bootstrap method that can more precisely quantify the uncertainty associated with average treatment effect estimates. We demonstrate the validity of this approach through a simulation study and highlight the importance of deriving standard error and confidence interval of average treatment effect estimates that both remove extra undesired noise and are easy to interpret when applied in real world scenarios.
