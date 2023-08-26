@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Political Methodologist"
   location         : "Urbana, IL, USA"
-  employer         : "University of Illinois at Urbana-Champaign"
+  employer         : "UIUC"
   googlescholar    : ""
   email            :   "jingl8@illinois.edu"
   researchgate     :  # example: ""
@@ -96,7 +96,6 @@ author:
   facebook         :
   foursquare       :
   github           : "academicpages"
-  google_plus      :
   keybase          :
   instagram        :
   impactstory      : #""
@@ -108,7 +107,6 @@ author:
   stackoverflow    : # 
   steam            :
   tumblr           :
-  twitter          : ""
   vine             :
   weibo            :
   xing             :
@@ -177,7 +175,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
     
@@ -201,10 +199,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _publications
+  # _research
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true
