@@ -15,7 +15,7 @@ Education
 
   Major fields: comparative politics and political methodology
   
-* M.S. in Applied Statistics, University of Illinois at Urbana-Champaign, 2013
+* M.S. in Applied Statistics, University of Illinois at Urbana-Champaign, 2023
 * M.A. in Political Science, University of Waterloo, 2015
 * M.A. in World History, Nankai University, 2013
 * B.A in Legal Studies, Nankai University, 2010
