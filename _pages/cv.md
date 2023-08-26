@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Political Methodology, University of Illinois at Urbana-Champaign, 2024 (expected)
+* Ph.D in Political Science, University of Illinois at Urbana-Champaign, 2024 (expected)
+  Major fields: comparative politics and political methodology
 * M.S. in Applied Statistics, University of Illinois at Urbana-Champaign, 2013
 * M.A. in Political Science, University of Waterloo, 2015
 * M.A. in World History, Nankai University, 2013
@@ -21,7 +22,7 @@ Work experience
 ======
 * Fall 2021 - Spring 2023: Research Assistant
   * University of Illinois at Urbana-Champaign
-  * Duties included: Enhancing Global News Index Project
+  * Duties included: Enhanced Global News Index Project
   * Supervisor: Professor Scott Althaus
 
 * June 2017- August 2020: Software Developer
