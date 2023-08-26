@@ -9,6 +9,7 @@ redirect_from:
 
 I am a PhD student at UIUC, interested in both developing novel statistical and computational methods and applying them to important subtantive questions in the social sciences. 
 
+Research Paper Abstracts
 ======
 
 Paper 1: **Are we bootstrapping the right thing? A new approach to quantify uncertainty of ATT Estimates**
