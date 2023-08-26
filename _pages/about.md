@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "My Academic Page"
+title: "Research Paper Abstracts"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Research Paper Abstracts
 ======
 Title: **Are we bootstrapping the right thing? A new approach to quantify uncertainty of ATT Estimates**
 
