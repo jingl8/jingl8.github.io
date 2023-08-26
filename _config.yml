@@ -85,7 +85,7 @@ author:
   bio              : "Political Methodologist"
   location         : "Urbana, IL, USA"
   employer         : "UIUC"
-  googlescholar    : ""
+  #googlescholar    : ""
   email            :   "jingl8@illinois.edu"
   researchgate     :  # example: ""
   uri              :
@@ -95,13 +95,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
   keybase          :
   instagram        :
   impactstory      : #""
   lastfm           :
   linkedin         :
-  orcid            : ""
+  #orcid            : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : # 
