@@ -12,7 +12,9 @@ redirect_from:
 Education
 ======
 * Ph.D in Political Science, University of Illinois at Urbana-Champaign, 2024 (expected)
+
   Major fields: comparative politics and political methodology
+  
 * M.S. in Applied Statistics, University of Illinois at Urbana-Champaign, 2013
 * M.A. in Political Science, University of Waterloo, 2015
 * M.A. in World History, Nankai University, 2013
