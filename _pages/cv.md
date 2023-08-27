@@ -17,19 +17,17 @@ Education
   
 * M.S. in Applied Statistics, University of Illinois at Urbana-Champaign, 2021.01-2023.05
 * M.A. in Political Science, University of Waterloo, 2015
-* M.A. in World History, Nankai University, 2013
-* B.A in Legal Studies, Nankai University, 2010
 
 Work experience
 ======
 * Fall 2021 - Spring 2023: Research Assistant
   * University of Illinois at Urbana-Champaign
-  * Duties included: Enhanced Global News Index Project
+  * Duties included: Enhanced [Global News Index Project](https://clinecenter.illinois.edu/project/data-science/global-news-index)
   * Supervisor: Professor Scott Althaus
 
 * June 2017- August 2020: Software Developer
-  * Bank of Montreal
-  * Duties included: Primary developer for several major releases in IFRS9 (International Financial Risk Statements 9) and CECL (Current Expected Credit Risk) projects
+  * [Bank of Montreal](https://fortune.com/company/bank-of-montreal/global500/)
+  * Duties included: One of the primary developers for several major releases in IFRS9 (International Financial Risk Statements 9) and CECL (Current Expected Credit Risk) projects
   
 Skills
 ======
