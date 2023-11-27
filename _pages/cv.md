@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Political Science, University of Illinois at Urbana-Champaign, 2020.09-2024 (expected)
 
-  Major fields: comparative politics and political methodology
+  Major fields: comparative politics, American politics, and political methodology
   
 * M.S. in Applied Statistics, University of Illinois at Urbana-Champaign, 2021.01-2023.05
 * M.A. in Political Science, University of Waterloo, 2015
@@ -21,8 +21,8 @@ Education
 Research Papers
 ======
 * Class imbalance and binary classfication model performance evaluation (Under Review)  
-* Are we bootstrapping the right thing: a new approach to quantify uncertainty of ATT estimates (in preparation for submission)
 * Testing multiple hypotheses at the same time: an intake from quantitative psychology (in preparation for submission)
+* Are we bootstrapping the right thing: a new approach to quantify uncertainty of ATT estimates (work in progress)
 * Context matters: re-assessing the skill endowment model prediction of globalization attitudes (work in progress)
 * Estimating the econmic impact of Hong Kong's sovereignty return to China: an empirical comparison of the synthetic control method and interrupted time series design (work in progress)
 
