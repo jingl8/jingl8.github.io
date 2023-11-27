@@ -18,12 +18,19 @@ Education
 * M.S. in Applied Statistics, University of Illinois at Urbana-Champaign, 2021.01-2023.05
 * M.A. in Political Science, University of Waterloo, 2015
 
+Research Papers
+======
+* Class imbalance and binary classfication model performance evaluation (Under Review)  
+* Are we bootstrapping the right thing: a new approach to quantify uncertainty of ATT estimates (in preparation for submission)
+* Testing multiple hypotheses at the same time: an intake from quantitative psychology (in preparation for submission)
+* Context matters: re-assessing the skill endowment model prediction of globalization attitudes (work in progress)
+* Estimating the econmic impact of Hong Kong's sovereignty return to China: an empirical comparison of the synthetic control method and interrupted time series design (work in progress)
+
 Work experience
 ======
 * Fall 2021 - Spring 2023: Research Assistant
   * University of Illinois at Urbana-Champaign
   * Duties included: Enhanced [Global News Index Project](https://clinecenter.illinois.edu/project/data-science/global-news-index)
-  * Supervisor: Professor Scott Althaus
 
 * June 2017- August 2020: Software Developer
   * [Bank of Montreal](https://fortune.com/company/bank-of-montreal/global500/)
