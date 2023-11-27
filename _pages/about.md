@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at UIUC, interested in both developing novel statistical and computational methods and applying them to important subtantive questions in the social sciences. 
+I am a PhD student at UIUC, interested in both developing novel statistical and computational methods and applying them to important subtantive questions in political science. 
 
 Research Paper Abstracts
 ======
