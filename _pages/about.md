@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Hello, Welcome, I am here to help!"
+title: "Welcome to my academic page, I am here to help!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a PhD student majoring in political science at UIUC, my research interests are in political methodology and substantively in comparative and international political economy. I have written research papers on boostrap standard errors for matching estimators, class imbalance's effect on model performance metrics for binary classification tasks, the contextual variation of individuals' attitudes towards globalization, empirical comparision of synthetic control versus interrupted time series, meta-analysis as a multiple hypothesis testing problem, etc.  
+I am a PhD student majoring in political science at UIUC, my research interests are in statistical and computational methods, and substantively in comparative and international political economy. I have written research papers on boostrap standard errors for matching estimators, class imbalance's effect on model performance metrics for binary classification tasks, the contextual variation of individuals' attitudes towards globalization, empirical comparision of synthetic control versus interrupted time series design, meta-analysis as a multiple hypothesis testing problem, etc.  
 
 Research Paper Abstracts
 ======
