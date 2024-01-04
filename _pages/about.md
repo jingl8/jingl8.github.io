@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Page"
+title: "Hello, Welcome, I am here to help!"
 author_profile: true
 redirect_from: 
   - /about/
