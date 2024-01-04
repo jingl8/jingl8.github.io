@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at UIUC, interested in both developing novel statistical and computational methods and applying them to important subtantive questions in political science. 
+I am a PhD student majoring in political science at UIUC, my research interests are in political methodology and substantively in comparative and international political economy. I have written research papers on boostrap standard errors for matching estimators, class imbalance's effect on model performance metrics for binary classification tasks, the contextual variation of individuals' attitudes towards globalization, empirical comparision of synthetic control versus interrupted time series, meta-analysis as a multiple hypothesis testing problem, etc.  
 
 Research Paper Abstracts
 ======
 
 Paper 1: **Are we bootstrapping the right thing? A new approach to quantify uncertainty of ATT Estimates**
 
-**Abstract**: Existing approaches of using the bootstrap method to derive standard error and confidence interval of average treatment effect estimate has one potential issue, which is that they are actually bootstrapping the wrong thing, resulting in unvalid statistical inference. In this paper, we discuss this important issue and propose a new non-parametric bootstrap method that can more precisely quantify the uncertainty associated with average treatment effect estimates. We demonstrate the validity of this approach through a simulation study and highlight the importance of deriving standard error and confidence interval of average treatment effect estimates that both remove extra undesired noise and are easy to interpret when applied in real world scenarios.([Paperlink](https://arxiv.org/abs/2310.11683))
+**Abstract**: This paper proposes a new non-parametric bootstrap method to quantify the uncertainty of average treatment effect estimates from matching estimators. More specifically, it seeks to quantify the uncertainty associated with the treatment effect variation  for the treated group by bootstrapping the treatment group only and finding the counterpart control group by matching on estimated propensity score. We demonstrate the validity of this approach and compare it with the existing approaches through Monte Carlo simulation and real world example data. The results indicate that the proposed approach achieves comparable precision and coverage rate as existing bootstrap approaches but may produce more precise standard error estimates with lower coverage rate depending on the proportion of treatment group units in the sample data and the specific matching method used.([Paperlink](https://arxiv.org/abs/2310.11683))
 
 Paper 2: **Data Imbalance and the Use of Binary Classification Performance Metrics**
 
