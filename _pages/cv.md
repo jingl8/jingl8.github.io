@@ -35,6 +35,11 @@ Work experience
 * June 2017- August 2020: Software Developer
   * [Bank of Montreal](https://fortune.com/company/bank-of-montreal/global500/)
   * Duties included: One of the primary developers for several major releases in IFRS9 (International Financial Risk Statements 9) and CECL (Current Expected Credit Risk) projects
+
+Service
+======
+* Referee: American Political Science Review
+* Math Camp Tutor
   
 Skills
 ======
