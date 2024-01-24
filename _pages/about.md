@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student majoring in political science at UIUC, my research interests are in statistical and computational methods, and substantively in comparative and international political economy. I have written research papers on boostrap standard errors for matching estimators, class imbalance's effect on model performance metrics for binary classification tasks, the contextual variation of individuals' attitudes towards globalization, empirical comparision of synthetic control versus interrupted time series design, meta-analysis as a multiple hypothesis testing problem, etc.  
+I am PhD candidate (ABD) in political science at UIUC, my research interests are in statistical and computational methods, and substantively in comparative and international political economy. I have written research papers on boostrap standard errors for matching estimators, class imbalance's effect on model performance metrics for binary classification tasks, the contextual variation of individuals' attitudes towards globalization, empirical comparision of synthetic control method and interrupted time series design, meta-analysis as a multiple hypothesis testing problem, etc.  Please feel free to reach out.
 
 Research Paper Abstracts
 ======
