@@ -21,7 +21,7 @@ Education
 Research Papers
 ======
 * Class imbalance and binary classfication model performance evaluation (Under Review)  
-* Testing multiple hypotheses at the same time: an intake from quantitative psychology (in preparation for submission)
+* Testing multiple hypotheses at the same time: an intake from psychological decision theory (in preparation for submission)
 * Are we bootstrapping the right thing: a new approach to quantify uncertainty of ATT estimates (work in progress)
 * Context matters: re-assessing the skill endowment model prediction of globalization attitudes (work in progress)
 * Estimating the econmic impact of Hong Kong's sovereignty return to China: an empirical comparison of the synthetic control method and interrupted time series design (work in progress)
