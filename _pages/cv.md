@@ -39,7 +39,7 @@ Work experience
 Service
 ======
 * Referee: American Political Science Review
-* Math Camp Tutor
+* Math Camp Instructor
   
 Skills
 ======
