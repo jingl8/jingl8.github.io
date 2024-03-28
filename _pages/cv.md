@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Political Science, University of Illinois at Urbana-Champaign, 2020.09-2024 (expected)
+* Ph.D in Political Science, University of Illinois at Urbana-Champaign, 2020.09-2024.12 (expected)
 
   Major fields: comparative politics, American politics, and political methodology
   
@@ -24,7 +24,7 @@ Research Papers
 * Testing multiple hypotheses at the same time: an intake from psychological decision theory (in preparation for submission)
 * Are we bootstrapping the right thing: a new approach to quantify uncertainty of ATT estimates (working paper)
 * Context matters: re-assessing the skill endowment model prediction of globalization attitudes (work in progress)
-* Estimating the econmic impact of Hong Kong's sovereignty return to China: an empirical comparison of the synthetic control method and interrupted time series design (work in progress)
+* A Lasso-augmented time series alternative to the synthetic control method: estimating the econmic impact of Hong Kong's sovereignty return to China (work in progress)
 * A dynamic model of partisan polarization in the digital media environment (work in progress)
 
 Work experience
