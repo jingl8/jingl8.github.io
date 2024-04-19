@@ -20,10 +20,10 @@ Education
 
 Research Papers
 ======
-* Class imbalance and binary classfication model performance evaluation (SSRN preprint)  
+* Class imbalance and binary classfication model performance evaluation (under review)  
 * Testing multiple hypotheses at the same time: an intake from psychological decision theory (ready for submission)
 * Are we bootstrapping the right thing: a new approach to quantify uncertainty of ATT estimates (arXiv print)
-* Context matters: re-assessing the skill endowment model prediction of globalization attitudes (working paper, manuscript available upon request)
+* Context matters: re-assessing the skill endowment model prediction of globalization attitudes (under review)
 * A Lasso-augmented time series alternative to the synthetic control method: estimating the econmic impact of Hong Kong's sovereignty return to China (working paper, manuscipt available upon request)
 * A dynamic model of partisan polarization in the digital media environment (work in progress)
 
