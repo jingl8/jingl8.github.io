@@ -29,6 +29,10 @@ Research Papers
 
 Work experience
 ======
+* Fall 2023 - Spring 2024: Methods sequence TA
+  * University of Illinois at Urbana-Champaign
+  * Duties included: led software sessions for spatial analysis and quasi-experimental causal inference design (matching)
+
 * Fall 2021 - Spring 2023: Research Assistant
   * University of Illinois at Urbana-Champaign
   * Duties included: Enhanced [Global News Index Project](https://clinecenter.illinois.edu/project/data-science/global-news-index)
@@ -40,7 +44,8 @@ Work experience
 Service
 ======
 * Referee: American Political Science Review
+* Math Camp Instructor
   
 Skills
 ======
-* software proficiency: R, SAS, Python, Git, Linux, Javascript, Html, QGIS, Spark and Hadoop
+* software proficiency: R (expert), SAS (expert), SQL (expert), Python (advanced), Git (intermediate), Linux (intermediate), Javascript (intermediate), Html (intermedaite), QGIS (intermediate), Spark and Hadoop (intermediate), MATLAB (working)
