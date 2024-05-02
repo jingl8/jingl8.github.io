@@ -29,9 +29,12 @@ Research Papers
 
 Work experience
 ======
+* Summer 2024: Instructor for PS 305 US Supreme Court
+  * University of Illinois at Urbana-Champaign
+
 * Fall 2023 - Spring 2024: Methods sequence TA
   * University of Illinois at Urbana-Champaign
-  * Duties included: led software sessions for spatial analysis and quasi-experimental causal inference design (matching)
+  * Duties included: led software sessions for spatial analysis and quarsi-experimental causal inference design (matching)
 
 * Fall 2021 - Spring 2023: Research Assistant
   * University of Illinois at Urbana-Champaign
@@ -40,6 +43,14 @@ Work experience
 * June 2017- August 2020: Software Developer
   * [Bank of Montreal](https://fortune.com/company/bank-of-montreal/global500/)
   * Duties included: One of the primary developers for several major releases in IFRS9 (International Financial Risk Statements 9) and CECL (Current Expected Credit Risk) projects
+
+Conferene Presentations
+======
+* Society for Political Methodology Annual Meeting: 2022, 2023, 2024
+* Society for Causal Inference Annual Meeting: 2024
+* Midwest Political Science Association Annual Meeting: 2023, 2024
+* Southern Political Science Association Annual Meeting: 2024
+* Washington University at St Louis: 2023
 
 Service
 ======
