@@ -34,7 +34,7 @@ Work experience
 
 * Fall 2023 - Spring 2024: Methods sequence TA
   * University of Illinois at Urbana-Champaign
-  * Duties included: led software sessions for spatial analysis and quarsi-experimental causal inference design (matching)
+  * Duties included: led software sessions for spatial analysis and quarsi-experimental design (matching)
 
 * Fall 2021 - Spring 2023: Research Assistant
   * University of Illinois at Urbana-Champaign
