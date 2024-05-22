@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am PhD candidate (ABD) in political science at UIUC, my research interests are in statistical and computational methods, and substantively in comparative and international political economy. I have written research papers on boostrap standard errors for matching estimators, model evaluation metrics for binary classification tasks, the contextual and temporal variation of individuals' attitudes towards globalization, A Lasso-agumented alternative to synthetic control method: estimating the effect of Hong Kong's sovereignty return to China, meta-analysis as a multiple hypothesis testing problem, etc.  Please feel free to reach out.
+I am PhD candidate (ABD) in political science at UIUC, my research interests are in statistical and computational methods, and substantively in comparative politics and political economy. I have done research projects on boostrap standard errors for matching estimators, model evaluation metrics for binary classification tasks, the contextual and temporal variation of individuals' attitudes towards globalization, A Lasso-agumented alternative to synthetic control method: estimating the effect of Hong Kong's sovereignty return to China, meta-analysis as a multiple hypothesis testing problem, etc.  Please feel free to reach out.
 
 Research Paper Abstracts
 ======
