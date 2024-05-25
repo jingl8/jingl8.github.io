@@ -18,7 +18,7 @@ Education
 * M.S. in Applied Statistics, University of Illinois at Urbana-Champaign, 2021.01-2023.05
 * M.A. in Political Science, University of Waterloo, 2015
 
-Research Papers
+Working Papers
 ======
 * Class imbalance and binary classfication model performance evaluation (under review)  
 * Testing multiple hypotheses at the same time: an intake from psychological decision theory (ready for submission)
