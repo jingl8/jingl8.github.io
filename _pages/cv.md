@@ -14,18 +14,19 @@ Education
 * Ph.D in Political Science, University of Illinois at Urbana-Champaign, 2020.09-2024.12 (expected)
 
   Major fields: comparative politics, American politics, and political methodology
-  
+
 * M.S. in Applied Statistics, University of Illinois at Urbana-Champaign, 2021.01-2023.05
+* Empirical Implications of Theoretical Models Summer Institute, Emory University, 2024.06-2024.07
 * M.A. in Political Science, University of Waterloo, 2015
 
 Working Papers
 ======
-* Class imbalance and binary classfication model performance evaluation (under review)  
-* Testing multiple hypotheses at the same time: an intake from psychological decision theory (ready for submission)
+* Area under the ROC Curve has the most consistent evaluation for binary classification (under review)  
 * Are we bootstrapping the right thing: a new approach to quantify uncertainty of ATT estimates (under review)
 * Context matters: re-assessing the skill endowment model prediction of globalization attitudes (under review)
+* A dynamic model of polarization under segregation (work in progress)
 * A Lasso-augmented time series alternative to the synthetic control method: estimating the econmic impact of Hong Kong's sovereignty return to China (working paper, manuscipt available upon request)
-* A dynamic model of partisan polarization in the digital media environment (work in progress)
+* Testing multiple hypotheses at the same time: an intake from psychological decision theory (ready for submission)
 
 Work experience
 ======
