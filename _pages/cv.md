@@ -48,4 +48,4 @@ Service
   
 Skills
 ======
-* software proficiency: R (expert), SAS (expert), SQL (expert), Python (advanced), Git (intermediate), Linux (intermediate), Javascript (intermediate), Html (intermedaite), QGIS (intermediate), Spark and Hadoop (intermediate), MATLAB (working)
+* software proficiency: R, SAS, SQL, Python, Git, Linux Shell, Javascript, Html, QGIS, Spark and Hadoop, MATLAB
