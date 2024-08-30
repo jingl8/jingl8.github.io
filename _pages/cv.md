@@ -17,7 +17,7 @@ Education
 
 * M.S. in Applied Statistics, University of Illinois at Urbana-Champaign, 2021.01-2023.05
 * Empirical Implications of Theoretical Models Summer Institute, Emory University, 2024.06-2024.07
-* M.A. in Political Science, University of Waterloo, 2015
+
 
 Working Papers
 ======
@@ -30,17 +30,6 @@ Working Papers
 
 Work experience
 ======
-* Summer 2024: Instructor for PS 305 US Supreme Court
-  * University of Illinois at Urbana-Champaign
-
-* Fall 2023 - Spring 2024: Methods sequence TA
-  * University of Illinois at Urbana-Champaign
-  * Duties included: led software sessions for spatial analysis and quarsi-experimental design (matching)
-
-* Fall 2021 - Spring 2023: Research Assistant
-  * University of Illinois at Urbana-Champaign
-  * Duties included: Enhanced [Global News Index Project](https://clinecenter.illinois.edu/project/data-science/global-news-index)
-
 * June 2017- August 2020: Software Developer
   * [Bank of Montreal](https://fortune.com/company/bank-of-montreal/global500/)
   * Duties included: One of the primary developers for several major releases in IFRS9 (International Financial Risk Statements 9) and CECL (Current Expected Credit Risk) projects
@@ -56,7 +45,6 @@ Conferene Presentations
 Service
 ======
 * Referee: American Political Science Review
-* Math Camp Instructor
   
 Skills
 ======
