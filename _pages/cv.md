@@ -26,7 +26,7 @@ Working Papers
 * Context matters: re-assessing the skill endowment model prediction of globalization attitudes (under review)
 * A dynamic model of polarization under segregation (working paper)
 * A Lasso-augmented time series alternative to the synthetic control method: estimating the econmic impact of Hong Kong's sovereignty return to China (working paper)
-* Testing multiple hypotheses at the same time: an intake from psychological decision theory (ready for submission)
+* Testing multiple hypotheses at the same time: an intake from psychological decision theory (working paper)
 
 Work experience
 ======
