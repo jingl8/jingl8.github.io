@@ -11,54 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Political Science, University of Illinois at Urbana-Champaign, 2020.09-2024.12 (expected)
+
+  Major fields: comparative politics, American politics, and political methodology
+
+* M.S. in Applied Statistics, University of Illinois at Urbana-Champaign, 2021.01-2023.05
+* Empirical Implications of Theoretical Models Summer Institute, Emory University, 2024.06-2024.07
+
+
+Working Papers
+======
+* Area under the ROC Curve has the most consistent evaluation for binary classification (under review)  
+* Are we bootstrapping the right thing: a new approach to quantify uncertainty of ATT estimates (under review)
+* Context matters: re-assessing the skill endowment model prediction of globalization attitudes (under review)
+* A dynamic model of polarization under segregation (working paper)
+* A Lasso-augmented time series alternative to the synthetic control method: estimating the econmic impact of Hong Kong's sovereignty return to China (working paper)
+* Testing multiple hypotheses at the same time: an intake from psychological decision theory (working paper)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* June 2017- August 2020: Software Developer
+  * [Bank of Montreal](https://fortune.com/company/bank-of-montreal/global500/)
+  * Duties included: One of the primary developers for several major releases in IFRS9 (International Financial Risk Statements 9) and CECL (Current Expected Credit Risk) projects
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Conferene Presentations
+======
+* Society for Political Methodology Annual Meeting: 2022, 2023, 2024
+* Society for Causal Inference Annual Meeting: 2024
+* Midwest Political Science Association Annual Meeting: 2023, 2024
+* Southern Political Science Association Annual Meeting: 2024
+* Washington University at St Louis: 2023
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Service
+======
+* Referee: American Political Science Review
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* software proficiency: R, SAS, SQL, Python, Git, Linux Shell, Javascript, Html, QGIS, Spark and Hadoop, MATLAB
