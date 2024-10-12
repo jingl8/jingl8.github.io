@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Political Science, University of Illinois at Urbana-Champaign, 2020.09-2024.12 (expected)
+* Ph.D in Political Science, University of Illinois at Urbana-Champaign, 2020.09-2025.05 (expected)
 
   Major fields: comparative politics, American politics, and political methodology
 
