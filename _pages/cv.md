@@ -24,9 +24,9 @@ Working Papers
 * Area under the ROC Curve has the most consistent evaluation for binary classification (under review)  
 * Are we bootstrapping the right thing: a new approach to quantify uncertainty of ATT estimates (under review)
 * Context matters: re-assessing the skill endowment model prediction of globalization attitudes (under review)
-* A dynamic model of polarization under segregation (working paper, manuscript available upon request)
+* A dynamic model of polarization under segregation (in preparation for submission, manuscript available upon request)
 * A Lasso-augmented time series alternative to the synthetic control method: estimating the econmic impact of Hong Kong's sovereignty return to China (working paper, manuscript available upon request)
-* Testing multiple hypotheses at the same time: an intake from psychological decision theory (working paper, manuscript available upon request)
+* Testing multiple hypotheses at the same time: an intake from psychological decision theory (ready for submission, manuscript available upon request)
 
 Work experience
 ======
