@@ -9,7 +9,7 @@ redirect_from:
 
 I am PhD candidate (ABD) in political science at UIUC, my research interests are in the use of computational and statistical methods to study important substantive questions related to collection action and political economy both in the American and comparative contexts. I have done research projects on dynamic modelling of polarization under segregation, machine learning model evaluation for binary classification tasks, the contextual and temporal variation of individuals' attitudes towards globalization, A Lasso-agumented alternative to synthetic control method, boostrap standard errors for matching estimators,  meta-analysis as a multiple hypothesis testing problem, etc.
 
-Paper Abstracts
+Working Paper Abstracts
 ======
 
 Paper 1: **A dynamic model of polarization under segregation**
