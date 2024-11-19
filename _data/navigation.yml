@@ -12,7 +12,7 @@ main:
   #   url: /talks/    
 
   - title: "Teaching"
-    url: [Teaching](https://github.com/jingl8/interactivewebmap/blob/main/index.html)    
+    url: /teaching/
     
   # - title: "Portfolio"
   #   url: /portfolio/
