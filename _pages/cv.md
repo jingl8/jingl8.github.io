@@ -36,7 +36,7 @@ Work experience
 
 Teaching Experience
 ======
-* PS 532-Quant Pol Analysis III, Teaching Assistant, Department of Political Science, UIUC, [Geographically Weighted Regression Materials](https://github.com/jingl8/jingl8.github.io/spatialanalysis)
+* PS 532-Quant Pol Analysis III, Teaching Assistant, Department of Political Science, UIUC, [Geographically Weighted Regression Materials](jingl8.github.io/spatialanalysis)
 * PS 531-Quant Pol Analysis II, Teaching Assistant, Department of Political Science, UIUC
 * PS 530-Quant Pol Analysis I, Teaching Assistant, Department of Political Science, UIUC
 * PS 305 US Supreme Court, Instructor, Department of Political Science, UIUC
