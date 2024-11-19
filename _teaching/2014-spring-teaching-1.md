@@ -8,8 +8,6 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-[Interactive Web Mapping](https://github.com/jingl8/interactivewebmap/blob/main/index.html)
-
 Heading 1
 ======
 
