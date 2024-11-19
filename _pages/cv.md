@@ -34,6 +34,14 @@ Work experience
   * [Bank of Montreal](https://fortune.com/company/bank-of-montreal/global500/)
   * Duties included: One of the primary developers for several major releases in IFRS9 (International Financial Risk Statements 9) and CECL (Current Expected Credit Risk) projects
 
+Teaching Experience
+======
+* PS 532-Quant Pol Analysis III, Teaching assistant, Department of Political Science, UIUC [Geographically Weighted Regression Materials](https://github.com/jingl8/jingl8.github.io/spatialanalysis)
+* PS 531-Quant Pol Analysis II, Teaching assistant, Department of Political Science, UIUC
+* PS 530-Quant Pol Analysis I, Teaching assistant, Department of Political Science, UIUC
+* PS 305 US Supreme Court, Instructor, Department of Political Science, UIUC
+* PS 343-Governance & Politics of China, Teaching assistant, Department of Political Science, UIUC
+
 Conferene Presentations
 ======
 * Society for Political Methodology Annual Meeting: 2022, 2023, 2024
