@@ -21,7 +21,7 @@ Education
 
 Working Papers
 ======
-* Area under the ROC Curve has the most consistent evaluation for binary classification (revise and resubmit)  
+* Area under the ROC Curve has the most consistent evaluation for binary classification (accepted)  
 * Are we bootstrapping the right thing: a new approach to quantify uncertainty of ATT estimates (under review)
 * Context matters: re-assessing the skill endowment model prediction of globalization attitudes (under review)
 * A dynamic model of polarization under segregation (in preparation for submission, manuscript available upon request)
