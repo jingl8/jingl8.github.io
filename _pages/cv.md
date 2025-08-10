@@ -24,7 +24,7 @@ Publication
 
 Selected Working Papers
 ======
-* Are we bootstrapping the right thing: a new approach to quantify uncertainty of ATT estimates (under review)
+* Fairness of model evaluation: how evaluation metrics can exert aggregation bias (under review)
 * A dynamic model of polarization under segregation (under review)
 * Assessing model fitting and variable selection of synthetic control methods (under review)
 * Meta analysis as a binary classification problem (preparation for submission)
