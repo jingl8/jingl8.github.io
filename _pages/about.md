@@ -12,9 +12,7 @@ I am PhD candidate (ABD) in political science at UIUC, my research interests are
 Publication
 ======
 
-**Area under the ROC Curve has the Most Consistent Evaluation for Binary Classification** PLOS ONE
-
-**Abstract**: The proper use of model evaluation metrics is important for model evaluation and model selection in binary classification tasks. This study investigates how consistent different metrics are at evaluating models across data of different prevalence while the relationships between different variables and the sample size are kept constant. Analyzing 156 data scenarios, 18 model evaluation metrics and five commonly used machine learning models as well as a naive random guess model, I find that evaluation metrics that are less influenced by prevalence offer more consistent evaluation of individual models and more consistent ranking of a set of models. In particular, Area Under the ROC Curve (AUC) which takes all decision thresholds into account when evaluating models has the smallest variance in evaluating individual models and smallest variance in ranking of a set of models. A close threshold analysis using all possible thresholds for all metrics further supports the hypothesis that considering all decision thresholds helps reduce the variance in model evaluation with respect to prevalence change in data. The results have significant implications for model evaluation and model selection in binary classification tasks. ([Link](https://doi.org/10.1371/journal.pone.0316019))
+**Area under the ROC Curve has the Most Consistent Evaluation for Binary Classification** [PLOS ONE](https://doi.org/10.1371/journal.pone.0316019)
 
 Selected Working Paper Abstracts
 ======
