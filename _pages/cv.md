@@ -20,7 +20,7 @@ Education
 
 Publication
 ======
-* Area under the ROC Curve has the most consistent evaluation for binary classification (PLOS ONE) 
+* Area under the ROC Curve has the most consistent evaluation for binary classification ([PLOS ONE](https://doi.org/10.1371/journal.pone.0316019)) 
 
 Selected Working Papers
 ======
