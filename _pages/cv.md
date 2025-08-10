@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Political Science, University of Illinois at Urbana-Champaign, 2020.09-2025.12 (expected)
 
-  Major fields: comparative politics, American politics, and political methodology
+  Major fields:  political methodology, comparative politics, and American politics
 
 * M.S. in Applied Statistics, University of Illinois at Urbana-Champaign, 2021.01-2023.05
 * Empirical Implications of Theoretical Models Summer Institute, Emory University, 2024.06-2024.07
@@ -22,12 +22,13 @@ Publication
 ======
 * Area under the ROC Curve has the most consistent evaluation for binary classification (PLOS ONE) 
 
-Working Papers
+Selected Working Papers
 ======
 * Are we bootstrapping the right thing: a new approach to quantify uncertainty of ATT estimates (under review)
 * A dynamic model of polarization under segregation (under review)
-* A Lasso-augmented time series alternative to the synthetic control method: estimating the econmic impact of Hong Kong's sovereignty return to China (under review)
-* Meta analysis as a binary classification problem (ready for submission, manuscript available upon request)
+* Assessing model fitting and variable selection of synthetic control methods (under review)
+* Meta analysis as a binary classification problem (preparation for submission)
+* Reducing algorithmic bias through multi-calibrated model evaluation (preparation for submission)
 
 Work experience
 ======
@@ -37,9 +38,10 @@ Work experience
 
 Teaching Experience
 ======
-* PS 532-Quant Pol Analysis III, Teaching Assistant, Department of Political Science, UIUC
+* PS 532-Quant Pol Analysis III, PS 532-Quant Pol Analysis II, PS 532-Quant Pol Analysis I, Teaching Assistant, Department of Political Science, UIUC
 * PS 305 US Supreme Court, Instructor, Department of Political Science, UIUC
 * PS 343-Governance & Politics of China, Teaching Assistant, Department of Political Science, UIUC
+* PS 241-Comparative Politics in the Global South, Teaching Assistant, Department of Political Science, UIUC
 
 Conferene Presentations
 ======
@@ -56,4 +58,4 @@ Service
   
 Skills
 ======
-* software proficiency: R, SAS, SQL, Python, Git, Linux Shell, Javascript, Html, QGIS, Spark and Hadoop, MATLAB
+* Technical proficiency: R, SAS, SQL, Python, Git, Linux Shell, Javascript, Html, QGIS, Spark, GeoJson, LeafLet
