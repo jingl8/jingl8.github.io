@@ -32,7 +32,7 @@ Selected Working Papers
 
 Work experience
 ======
-* June 2017- August 2020: Tech Risk Consultant
+* June 2017- August 2020: Risk Tech Consultant
   * [Bank of Montreal](https://fortune.com/company/bank-of-montreal/global500/)
   * Duties included: One of the primary developers for several major releases in IFRS9 (International Financial Risk Statements 9) and CECL (Current Expected Credit Risk) projects
 
