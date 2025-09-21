@@ -46,7 +46,7 @@ Teaching Experience
 Conference Presentations
 ======
 * Society for Political Methodology Annual Meeting: 2022, 2023, 2024, 2025
-* American Political Science Association Annual Meeting: 2025 (aceepted)
+* American Political Science Association Annual Meeting: 2025 (accepted)
 * Society for Causal Inference Annual Meeting: 2024
 * Midwest Political Science Association Annual Meeting: 2023, 2024, 2025
 * Southern Political Science Association Annual Meeting: 2024
