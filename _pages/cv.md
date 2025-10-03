@@ -20,7 +20,7 @@ Education
 
 Publication
 ======
-* Jing Li, **Nationalization of Partisan Interactions and Polarization**, Fourteenth International Conference Proceedings on Complex Networks & Their Applications, 2025.
+* Jing Li, **Nationalization of Partisan Interactions and Polarization**, Fourteenth International Conference Proceedings on Complex Networks & Their Applications (accepted), 2025.
 
 * Jing Li, **Area under the ROC Curve has the most consistent evaluation for binary classification** ([PLOS ONE](https://doi.org/10.1371/journal.pone.0316019)), 2024. 
 
