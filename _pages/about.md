@@ -12,6 +12,7 @@ I am PhD candidate (ABD) in political science at UIUC, my research interests are
 Publication
 ======
 Jing Li, **Nationalization of Partisan Interactions and Polarization**, Fourteenth International Conference Proceedings on Complex Networks & Their Applications, 2025.
+
 Jing Li, **Area under the ROC Curve has the Most Consistent Evaluation for Binary Classification** [PLOS ONE](https://doi.org/10.1371/journal.pone.0316019), 2024.
 
 Selected Working Paper Abstracts
